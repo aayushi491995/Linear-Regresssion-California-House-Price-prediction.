@@ -4,8 +4,7 @@ Predict California house prices based on the features using Linear Regression al
 ### Objective
 The objective is to predict California house prices based on the features using Linear Regression algorithm.
 
-Contents
-This project is meant to explore, analyse, visualize and predict if a person have a chances to be diabetic by exploring the following columns:
+This project is meant to explore, analyse, visualize and predict hosue prices of california using below feature and target variables:
     1. longitude             
     2. latitude              
     3. housing_median_age    
